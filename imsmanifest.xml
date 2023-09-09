@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6AyxGaPijTb_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Ước chung và ước chung lớn nhất</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Ước_chung_và_ước_chung_lớn_nhất_ORG">
+    <organization identifier="Ước_chung_và_ước_chung_lớn_nhất_ORG">
+      <title>Ước chung và ước chung lớn nhất</title>
+      <item identifier="TO6-44-82_SCO" isvisible="true" identifierref="__6AyxGaPijTb_course_id_RES">
+        <title>Ước chung và ước chung lớn nhất</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6AyxGaPijTb_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/WebObjects/6evTrXasWba/geogebra-export.html" />
+      <file href="mobile/6evTrXasWba6nu4UjNRyAU{Width=1462, Height=824}Light.jpg" />
+      <file href="mobile/6WCGi4VMmzP_P_1941_0_106_1153.jpg" />
+      <file href="mobile/6WCGi4VMmzP_P_0_938_2048_214.jpg" />
+      <file href="mobile/5b0zSITZJlM.png" />
+      <file href="mobile/6ZGq5UNSmUR.png" />
+      <file href="mobile/6DG8uBrimer.png" />
+      <file href="mobile/5p220hV8Ea3.png" />
+      <file href="mobile/6JcjaQy1G5N.png" />
+      <file href="mobile/6D9gWCM0Yk1.png" />
+      <file href="mobile/60gRAfNKYUC.png" />
+      <file href="mobile/6I3f0tGZsyp.png" />
+      <file href="mobile/5lQUqMLjGLe.gif" />
+      <file href="mobile/5zit4tgLRhG_X.gif" />
+      <file href="mobile/6lekApfVFPH.gif" />
+      <file href="mobile/6OGD6gn97Ur.gif" />
+      <file href="mobile/6kAS7oN08HU.gif" />
+      <file href="mobile/6gbrNsGtas0.gif" />
+      <file href="story_content/6q1rKTZsmIc_44100_96_0.mp3" />
+      <file href="mobile/6Sw6jZQD4Ma.png" />
+      <file href="mobile/5cKaiiPmGvo.png" />
+      <file href="mobile/6feqQCyR3HX.png" />
+      <file href="story_content/video_6fAdzDFJ9KM_18_96_516x390.mp4" />
+      <file href="mobile/poster_62jkANItp1N_video_6fAdzDFJ9KM_18_96_516x390.jpg" />
+      <file href="story_content/6k5DSBnmjNI_44100_96_0.mp3" />
+      <file href="mobile/6RJXtLPB673.png" />
+      <file href="mobile/6WCGi4VMmzP.jpg" />
+      <file href="mobile/6LHr31x36T0.png" />
+      <file href="mobile/6CJKBFVt1J7.png" />
+      <file href="mobile/5YEGE9FDK1V.png" />
+      <file href="mobile/69yVPTi1ZVk.png" />
+      <file href="story_content/5o0wzZtH096_44100_96_0.mp3" />
+      <file href="story_content/6O9A23nxiqT_44100_96_0.mp3" />
+      <file href="story_content/6NrQovQzl9T_44100_96_0.mp3" />
+      <file href="story_content/6ccNHvEO8Dy_44100_96_0.mp3" />
+      <file href="story_content/6L2JuXbZHbX_44100_96_0.mp3" />
+      <file href="story_content/5xglNq8CxwT_44100_96_0.mp3" />
+      <file href="story_content/video_5uOvR1U9rKq_18_96_562x378.mp4" />
+      <file href="mobile/poster_6kcuaO2IFNS_video_5uOvR1U9rKq_18_96_562x378.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/6jvKWdwBiD1.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
